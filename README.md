@@ -3,14 +3,14 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/DanielRodriguezIT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/DanielRodriguezIT/osTicketPostConfiguration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/DanielRodriguezIT/osTicket-LifeCycle-Examples)
+  - [osTicket: Prerequisites and Installation](https://github.com/cohenrys/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/cohenrys/osTicketPostConfiguration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/cohenrys/osTicket-LifeCycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DanielRodriguezIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cohenrys/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DanielRodriguezIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Network File Shares and Permissions](https://github.com/DanielRodriguezIT/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/DanielRodriguezIT/Building-Intuition-for-DNS)
+  - [Network File Shares and Permissions](https://github.com/cohenrys/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/cohenrys/Building-Intuition-for-DNS)
 
 <h2>🤳Connect with me:</h2>
 
